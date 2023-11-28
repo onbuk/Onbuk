@@ -5,14 +5,13 @@
 - 📫 How to reach me -> onbukbg on discord
 - 🇨🇦 French canadian caliss
 
-
-My pc 
--intel i7 6700
--RTX 2060 super
--16gb ddr4 
--Linux Arch and Windows 10 pro in dual boot
--512gb sata ssd (boot drive)
--250gb 2006 hdd 💀
+My PC
+- intel i7 6700
+- RTX 2060 super
+- 16gb ddr4 
+- Linux Arch and Windows 10 pro in dual boot
+- 512gb sata ssd (boot drive)
+- 250gb 2006 hdd 💀
 and probably the worst case you ever seen in you life
 
 <!---
