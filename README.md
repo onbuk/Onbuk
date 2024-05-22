@@ -6,13 +6,12 @@
 - 🇨🇦 French canadian caliss
 
 My PC
-- intel i7 6700
+- intel i7 12600k
 - RTX 2060 super
-- 16gb ddr4 
-- Linux Arch and Windows 10 pro in dual boot
-- 512gb sata ssd (boot drive)
-- 250gb 2006 hdd 💀
-and probably the worst case you ever seen in you life
+- 32gb ddr5 
+- Windows 11 pro
+- 1tb nvme ssd
+and its a sleeper
 
 <!---
 Onbuk/Onbuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
