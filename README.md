@@ -1,1 +1,1 @@
-calisse de teabarnak
+calisse de tabarnak
